@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    everest chen everst@gmail.com
 
 # THANKS
 

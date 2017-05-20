@@ -16,4 +16,9 @@ This is a simple web project, deployment can be on any web server or local file 
 
 ## How To Contribute
 
+<<<<<<< HEAD
 Please fork this repo and then issue pull requests for review.
+=======
+### Copyright
+copyright notice 2017
+>>>>>>> simple-changes
