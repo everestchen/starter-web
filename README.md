@@ -20,5 +20,5 @@ Please fork this repo and then issue pull requests for review.
 
 ### Copyright
 
-copyright notice 2017
+copyright notice 2017. All rights reserved.
 
